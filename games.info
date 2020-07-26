@@ -117,3 +117,7 @@
  2020-07-25 | 15:51:39.731 | INFO  | 成功领取 Next Up Hero (F2007250751394218)
  2020-07-25 | 15:51:41.231 | WARN  | Failed to claim Tacoma (Error: errors.com.epicgames.purchase.purchase.captcha.challenge)
 
+2020-07-26 15:52:28+08:00
+ 2020-07-26 | 15:52:27.997 | INFO  | Next Up Hero 已经领取
+ 2020-07-26 | 15:52:28.546 | WARN  | Failed to claim Tacoma (Error: errors.com.epicgames.purchase.purchase.captcha.challenge)
+
